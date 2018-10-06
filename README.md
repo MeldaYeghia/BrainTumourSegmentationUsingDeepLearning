@@ -9,17 +9,17 @@ The code utilizes the tensorflow-deeplab-resnet library [2]⁠, as the deep lear
 
 The code requires Python 3.6, and the following libraries:
 
-numpy
-scipy
-matplotlib
-Scikit-Image
-SimpleITK
-Pillow
-Scikit-Learn
-six
-tqdm
-Cython
-Tensorflow-gpu OR Tensorflow if GPUs are not available
+numpy, 
+scipy, 
+matplotlib, 
+Scikit-Image, 
+SimpleITK, 
+Pillow, 
+Scikit-Learn, 
+six, 
+tqdm, 
+Cython, 
+Tensorflow-gpu, 
 pydensecrf [3]⁠
 
 The current version is tested on PyCharm.  
